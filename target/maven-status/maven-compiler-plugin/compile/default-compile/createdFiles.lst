@@ -1,0 +1,8 @@
+kanchanaacademy\AbstractComponents\AbstractComponent.class
+kanchanaacademy\pageobject\ProductCatalogue.class
+kanchanaacademy\resources\ExtentReporterNG.class
+kanchanaacademy\pageobject\LandingPage.class
+kanchanaacademy\pageobject\CartPage.class
+kanchanaacademy\pageobject\ConfirmationPage.class
+kanchanaacademy\pageobject\CheckoutPage.class
+kanchanaacademy\pageobject\OrderPage.class
