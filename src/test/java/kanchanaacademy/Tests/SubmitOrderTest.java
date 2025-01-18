@@ -41,7 +41,11 @@ public class SubmitOrderTest extends BaseTest
 		ConfirmationPage confirmationPage = checkOutPage.submitOrder();
 		String confirmMess = confirmationPage.verifyConfirmationMessage();
 		Assert.assertTrue(confirmMess.equalsIgnoreCase("Thankyou for the order."));
-
+		driver.close();
+		
+		System.out.println("hellow");
+		//insert close
+		
 		//orders
 		
 		
