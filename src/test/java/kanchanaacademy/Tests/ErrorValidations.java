@@ -50,4 +50,15 @@ public class ErrorValidations extends BaseTest
 		
 	}
 
+	@Test
+	public void CheckAllError()  {
+		
+			
+		System.out.println("Hello i am team x");
+		System.out.println("I'm test from Thai");
+
+		
+		
+	}
+
 }
