@@ -82,9 +82,25 @@ public class StandAloneTest
 	  String confirmMess=   driver.findElement(By.cssSelector("hero-primary")).getText();
 	
 
-	  System.out.println("I am x ja")
+	  System.out.println("I am x ja");
 	  Assert.assertTrue(confirmMess.equalsIgnoreCase("Thankyou for the order."));
 	 // driver.close();
+	  
+
+	}
+	
+	public void extracBranch1() {
+		
+		System.out.println("I am develop branch");
+		System.out.println("strat");
+	}
+	
+	public void extracBranch2(String name) {
+		
+		System.out.println("I am develop branch");
+		System.out.println("My name : "+name);
+		System.out.println("Jaja");
+		
 	}
 
 }
