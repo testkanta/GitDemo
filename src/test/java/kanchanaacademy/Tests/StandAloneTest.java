@@ -82,7 +82,7 @@ public class StandAloneTest
 	  String confirmMess=   driver.findElement(By.cssSelector("hero-primary")).getText();
 	
 
-	  
+	  System.out.println("I am x ja")
 	  Assert.assertTrue(confirmMess.equalsIgnoreCase("Thankyou for the order."));
 	 // driver.close();
 	}

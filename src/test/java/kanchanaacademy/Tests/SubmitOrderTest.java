@@ -47,6 +47,10 @@ public class SubmitOrderTest extends BaseTest
 		//insert close
 		
 		//orders
+
+		System.out.println("I am x Ja");
+		System.out.println("I am x Ja");
+		System.out.println("I am x Ja");
 		
 		
 //		WebDriverManager.chromedriver().setup();
